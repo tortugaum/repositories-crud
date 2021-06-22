@@ -1,5 +1,6 @@
 # Repositorio-crud
 ## Aplicação web simples com CRUD e listagem de repos github
+  * PHP, Javascript, JQuery, Bootstrap,html e css
 
 ### Funções:
 * CRUD Básico(Create, Read, Update, Delete)
